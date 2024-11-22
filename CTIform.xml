@@ -77,4 +77,7 @@
 <marc:record><marc:leader>00231cz##a2200097ni 4500</marc:leader>
 <marc:controlfield tag="001">CTIform00025</marc:controlfield>
 <marc:controlfield tag="003">StGlUS</marc:controlfield><marc:controlfield tag="005">20240501125323.0</marc:controlfield><marc:controlfield tag="008">240501#|eanznnbabb###########a#ana#####d</marc:controlfield><marc:datafield tag="040" ind1=" " ind2=" "><marc:subfield code="a">StGlUS</marc:subfield><marc:subfield code="b">eng</marc:subfield><marc:subfield code="c">StGlUS</marc:subfield><marc:subfield code="d">StGlUS</marc:subfield><marc:subfield code="f">local</marc:subfield></marc:datafield><marc:datafield tag="155" ind1=" " ind2=" "><marc:subfield code="a">Young adult</marc:subfield></marc:datafield></marc:record>
+<marc:record><marc:leader>00231cz##a2200097ni 4500</marc:leader>
+<marc:controlfield tag="001">CTIform00028</marc:controlfield>
+<marc:controlfield tag="003">StGlUS</marc:controlfield><marc:controlfield tag="005">20241122140423.0</marc:controlfield><marc:controlfield tag="008">240501#|eanznnbabb###########a#ana#####d</marc:controlfield><marc:datafield tag="040" ind1=" " ind2=" "><marc:subfield code="a">StGlUS</marc:subfield><marc:subfield code="b">eng</marc:subfield><marc:subfield code="c">StGlUS</marc:subfield><marc:subfield code="d">StGlUS</marc:subfield><marc:subfield code="f">local</marc:subfield></marc:datafield><marc:datafield tag="155" ind1=" " ind2=" "><marc:subfield code="a">Story sacks</marc:subfield></marc:datafield></marc:record>
 </marc:collection>

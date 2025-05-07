@@ -170,9 +170,8 @@ CTItopical00167,Crafts,Art,,,,
 CTItopical00168,Drawing,Art,,Art,,
 CTItopical00169,Painting,Art,,,,
 CTItopical00170,Paper,Art,,,,
-CTItopical01340,Bedtime,,,,,
+CTItopical01340,Bedtime,,,Night-time,,
 CTItopical00171,Beds,Bedtime,,,,
-CTItopical00172,Bedtime,Bedtime,,Night-time,,
 CTItopical00174,Daydreaming,Bedtime,,,,
 CTItopical00175,Dreams,Bedtime,,Daydreaming,,
 CTItopical00176,Nightmares,Bedtime,,Dreams,,
@@ -281,7 +280,7 @@ CTItopical00267,Measuring,Concepts and experiences,,,,
 CTItopical00268,Memories,Concepts and experiences,,Forgetfulness,,
 CTItopical00269,Months,Concepts and experiences,,Seasons,,
 CTItopical00270,Morning,Concepts and experiences,,,,
-CTItopical00271,Night-time,Concepts and experiences,,Bedtime,,
+CTItopical00271,Night-time,Concepts and experiences,,Bedtime; Darkness,,
 CTItopical00272,Noise,Concepts and experiences,,Sounds,,
 CTItopical00273,Opposites,Concepts and experiences,,,,
 CTItopical00274,Patterns,Concepts and experiences,,,,
@@ -600,6 +599,7 @@ CTItopical00587,Hiccups,Health and daily life,,,,
 CTItopical00588,HIV,Health and daily life,,AIDS,,
 CTItopical00589,Hospitals,Health and daily life,,Doctors,,
 CTItopical00590,Illness,Health and daily life,Diseases,Cancer,,
+CTItopical00598,Inhalers,Health and daily life,Puffers,,,
 CTItopical00591,Lockdown,Health and daily life,,,,
 CTItopical01386,Leukaemia,Health and daily life,,Cancer; Childhood illnesses,,
 CTItopical00593,Measles,Health and daily life,,,,
@@ -607,12 +607,12 @@ CTItopical00594,Medicine,Health and daily life,,,,
 CTItopical00595,Nits,Health and daily life,,,,
 CTItopical00596,Old age,Health and daily life,,Older people,,
 CTItopical00597,Problem gambling,Health and daily life,Gambling addiction,Gambling,,NHS Inform
-CTItopical00598,Inhalers,Health and daily life,Puffers,,,
+CTItopical00577,Routine,Health and daily life,Daily routine,,,
 CTItopical00599,Skin diseases,Health and daily life,,,,
 CTItopical00600,Diet,Health and daily life,,,,
 CTItopical00601,Smoking,Health and daily life,,,,
 CTItopical00602,Sneezes,Health and daily life,,,,
-CTItopical00603,Toilet training,Health and daily life,Potty training,,,
+CTItopical00603,Toilet training,Health and daily life,Potty training; Bedwetting,,,
 CTItopical00604,Toilets,Health and daily life,,,,
 CTItopical00605,Tourette syndrome,Health and daily life,Tourette's syndrome; Tourette's,,,MeSH
 CTItopical00606,Transplants,Health and daily life,,,,
@@ -657,31 +657,31 @@ CTItopical00643,Vikings,History,,,,
 CTItopical00644,Wild West,History,,Cowboys,,
 CTItopical00645,"World War, 1914-1918",History,,,,
 CTItopical00646,"World War, 1939-1945",History,,,,
-CTItopical01353,Holidays and celebrations (including religious holidays),,,,,
-CTItopical00647,Birthdays,Holidays and celebrations (including religious holidays),,,,
-CTItopical00648,Bonfires,Holidays and celebrations (including religious holidays),,Fireworks; Fire,,
-CTItopical00650,Christmas,Holidays and celebrations (including religious holidays),,,,https://www.strath.ac.uk/studywithus/ourcampus/whatsoncampus/faithspiritualitysupport/guidanceforstaffonreligiousfestivalsandregularobservances/
-CTItopical00651,Diwali,Holidays and celebrations (including religious holidays),,,,https://www.strath.ac.uk/studywithus/ourcampus/whatsoncampus/faithspiritualitysupport/guidanceforstaffonreligiousfestivalsandregularobservances/
-CTItopical00652,Easter,Holidays and celebrations (including religious holidays),,,,https://www.strath.ac.uk/studywithus/ourcampus/whatsoncampus/faithspiritualitysupport/guidanceforstaffonreligiousfestivalsandregularobservances/
-CTItopical00653,Eid-al-Adha,Holidays and celebrations (including religious holidays),,,,https://www.strath.ac.uk/studywithus/ourcampus/whatsoncampus/faithspiritualitysupport/guidanceforstaffonreligiousfestivalsandregularobservances/
-CTItopical00654,Eid al-Fitr,Holidays and celebrations (including religious holidays),,,,https://www.strath.ac.uk/studywithus/ourcampus/whatsoncampus/faithspiritualitysupport/guidanceforstaffonreligiousfestivalsandregularobservances/
-CTItopical00655,Father's Day,Holidays and celebrations (including religious holidays),,,,
-CTItopical00656,Fairs,Holidays and celebrations (including religious holidays),,,,
-CTItopical00657,Festivals,Holidays and celebrations (including religious holidays),,,,
-CTItopical00658,Fireworks,Holidays and celebrations (including religious holidays),,Bonfires,,
-CTItopical00659,Guru Nanak,Holidays and celebrations (including religious holidays),,,,https://www.strath.ac.uk/studywithus/ourcampus/whatsoncampus/faithspiritualitysupport/guidanceforstaffonreligiousfestivalsandregularobservances/
-CTItopical00660,Halloween,Holidays and celebrations (including religious holidays),,Devils,,
-CTItopical00661,Hanukkah,Holidays and celebrations (including religious holidays),,,,https://www.interfaith.org.uk/resources/religious-festivals
-CTItopical00663,Lunar New Year,Holidays and celebrations (including religious holidays),Chinese New Year,,,
-CTItopical00664,Mother's day,Holidays and celebrations (including religious holidays),,,,
-CTItopical00665,New Year,Holidays and celebrations (including religious holidays),,,,
-CTItopical00666,Parties,Holidays and celebrations (including religious holidays),,,,
-CTItopical00667,Passover,Holidays and celebrations (including religious holidays),Pesach,,,https://www.strath.ac.uk/studywithus/ourcampus/whatsoncampus/faithspiritualitysupport/guidanceforstaffonreligiousfestivalsandregularobservances/
-CTItopical00668,Gifts,Holidays and celebrations (including religious holidays),Presents,,,
-CTItopical00669,Ramadan,Holidays and celebrations (including religious holidays),,,,https://www.strath.ac.uk/studywithus/ourcampus/whatsoncampus/faithspiritualitysupport/guidanceforstaffonreligiousfestivalsandregularobservances/
-CTItopical00670,Valentine's Day,Holidays and celebrations (including religious holidays),,,,
-CTItopical00671,Vesak,Holidays and celebrations (including religious holidays),,,,https://www.strath.ac.uk/studywithus/ourcampus/whatsoncampus/faithspiritualitysupport/guidanceforstaffonreligiousfestivalsandregularobservances/
-CTItopical00672,Yom Kippur,Holidays and celebrations (including religious holidays),,,,https://www.strath.ac.uk/studywithus/ourcampus/whatsoncampus/faithspiritualitysupport/guidanceforstaffonreligiousfestivalsandregularobservances/
+CTItopical01353,Holidays and celebrations,,Holidays; Celebrations,,Including religious holidays,
+CTItopical00647,Birthdays,Holidays and celebrations,,,,
+CTItopical00648,Bonfires,Holidays and celebrations,,Fireworks; Fire,,
+CTItopical00650,Christmas,Holidays and celebrations,,,,https://www.strath.ac.uk/studywithus/ourcampus/whatsoncampus/faithspiritualitysupport/guidanceforstaffonreligiousfestivalsandregularobservances/
+CTItopical00651,Diwali,Holidays and celebrations,,,,https://www.strath.ac.uk/studywithus/ourcampus/whatsoncampus/faithspiritualitysupport/guidanceforstaffonreligiousfestivalsandregularobservances/
+CTItopical00652,Easter,Holidays and celebrations,,,,https://www.strath.ac.uk/studywithus/ourcampus/whatsoncampus/faithspiritualitysupport/guidanceforstaffonreligiousfestivalsandregularobservances/
+CTItopical00653,Eid-al-Adha,Holidays and celebrations,,,,https://www.strath.ac.uk/studywithus/ourcampus/whatsoncampus/faithspiritualitysupport/guidanceforstaffonreligiousfestivalsandregularobservances/
+CTItopical00654,Eid al-Fitr,Holidays and celebrations,,,,https://www.strath.ac.uk/studywithus/ourcampus/whatsoncampus/faithspiritualitysupport/guidanceforstaffonreligiousfestivalsandregularobservances/
+CTItopical00655,Father's Day,Holidays and celebrations,,,,
+CTItopical00656,Fairs,Holidays and celebrations,,,,
+CTItopical00657,Festivals,Holidays and celebrations,,,,
+CTItopical00658,Fireworks,Holidays and celebrations,,Bonfires,,
+CTItopical00659,Guru Nanak,Holidays and celebrations,,,,https://www.strath.ac.uk/studywithus/ourcampus/whatsoncampus/faithspiritualitysupport/guidanceforstaffonreligiousfestivalsandregularobservances/
+CTItopical00660,Halloween,Holidays and celebrations,,Devils,,
+CTItopical00661,Hanukkah,Holidays and celebrations,,,,https://www.interfaith.org.uk/resources/religious-festivals
+CTItopical00663,Lunar New Year,Holidays and celebrations,Chinese New Year,,,
+CTItopical00664,Mother's day,Holidays and celebrations,,,,
+CTItopical00665,New Year,Holidays and celebrations,,,,
+CTItopical00666,Parties,Holidays and celebrations,,,,
+CTItopical00667,Passover,Holidays and celebrations,Pesach,,,https://www.strath.ac.uk/studywithus/ourcampus/whatsoncampus/faithspiritualitysupport/guidanceforstaffonreligiousfestivalsandregularobservances/
+CTItopical00668,Gifts,Holidays and celebrations,Presents,,,
+CTItopical00669,Ramadan,Holidays and celebrations,,,,https://www.strath.ac.uk/studywithus/ourcampus/whatsoncampus/faithspiritualitysupport/guidanceforstaffonreligiousfestivalsandregularobservances/
+CTItopical00670,Valentine's Day,Holidays and celebrations,,,,
+CTItopical00671,Vesak,Holidays and celebrations,,,,https://www.strath.ac.uk/studywithus/ourcampus/whatsoncampus/faithspiritualitysupport/guidanceforstaffonreligiousfestivalsandregularobservances/
+CTItopical00672,Yom Kippur,Holidays and celebrations,,,,https://www.strath.ac.uk/studywithus/ourcampus/whatsoncampus/faithspiritualitysupport/guidanceforstaffonreligiousfestivalsandregularobservances/
 CTItopical00690,Humour,,,Jokes,,
 CTItopical00691,Jokes,Humour,,Humour,,
 CTItopical00692,Laughter,Humour,,,,
